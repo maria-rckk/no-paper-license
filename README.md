@@ -30,3 +30,6 @@ Because paper is the natural enemy of rock, and apparently named-exclusion licen
 ## Important
 
 This is a joke license published for cultural and comedic purposes. The associated-party language is deliberately silly and broad, not a claim about any particular person or organization. If you need terms you expect to enforce, have a qualified lawyer review them in your jurisdiction.
+
+## Acknowledgements
+fork (not a clone) of https://github.com/maria-rcks/no-theo-license 
